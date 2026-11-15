@@ -24,3 +24,11 @@ Empleado, Docente y Administrativo.
 
 Se aplicaron herencia, reutilización de código
 y sobrescritura de métodos.
+## Conclusión
+
+La práctica permitió comprender cómo una clase
+base puede compartir atributos y métodos con
+otras clases mediante la herencia en Java.
+
+Se comprobó el funcionamiento del programa
+mediante su ejecución en IntelliJ IDEA.
