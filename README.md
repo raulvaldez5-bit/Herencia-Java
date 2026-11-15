@@ -15,3 +15,12 @@ Se aplican los siguientes conceptos:
 - Ejecución de métodos heredados y exclusivos.
 
 El programa fue desarrollado y probado en IntelliJ IDEA.
+## Pruebas realizadas
+
+El programa se ejecutó correctamente en IntelliJ IDEA.
+
+Se comprobó el funcionamiento de las clases
+Empleado, Docente y Administrativo.
+
+Se aplicaron herencia, reutilización de código
+y sobrescritura de métodos.
